@@ -1,0 +1,8 @@
+pandas
+numpy
+pyarrow
+hdbscan
+scikit-learn
+python-telegram-bot
+python-dotenv
+openai
